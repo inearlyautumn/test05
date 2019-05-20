@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="home_header_height">120dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_90">90dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+
+    <dimen name="sideslip_btn_width">50dp</dimen>
+    <dimen name="sideslip_btn_height">25dp</dimen>
+    <dimen name="sideslip_btn_radius">25dp</dimen>
+    <dimen name="sideslip_btn_stroke_width">2dp</dimen>
+
+
+    <dimen name="sideslip_et_radius">5dp</dimen>
+    <dimen name="sideslip_et_stroke_width">1dp</dimen>
+    <dimen name="sideslip_et_height">32dp</dimen>
+
+    <dimen name="sideslip_reset_btn_width">100dp</dimen>
+
+
+</resources>

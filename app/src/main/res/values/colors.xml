@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="sideslip_bottom_bg_color">#F3F4F6</color>
+    <color name="sideslip_bottom_btn_bg_color">#4EB290</color>
+    <color name="sideslip_option_selected_bg_color">#DBEEE8</color>
+
+
+</resources>

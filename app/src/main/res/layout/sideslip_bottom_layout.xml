@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/lly_bottom"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="@color/sideslip_bottom_bg_color"
+    android:padding="10dp"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/tv_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/sideslip_reset_btn_bg"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="重置" />
+
+    <TextView
+        android:id="@+id/tv_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sideslip_reset_btn_bg"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="确定" />
+
+
+</LinearLayout>
